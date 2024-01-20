@@ -1,2 +1,3 @@
 # T24ENC
-Type-24 text encryptor.
+Type-24 text encryptor.<br>
+![avatar](screenshot.jpg)
